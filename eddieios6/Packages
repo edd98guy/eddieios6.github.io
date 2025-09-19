@@ -1,0 +1,85 @@
+Package: com.i4tips.gpsphone
+Version: 7.1.3
+Architecture: iphoneos-arm
+Maintainer: ZodTTD <zodttd@zodttd.com>
+Filename: ./debs/com.zodttd.gpsphone_7.1.3_iphoneos-arm.deb
+Size: 1360480
+MD5sum: 9787319b6ad0af19a47c86e7357d89ac
+SHA1: 82602b33a6ba17a1b29e242114231cb20e6bf139
+SHA256: d190fbe3274e417cdeaf468cb4c6f6cd6d8d6a2f26a6f889c92727b7cfc4f1c1
+Section: i4Tips-Tweaks
+Homepage: http://www.zodttd.com
+Description: Fast Gameboy Advance emulator!
+Tag: cydia::commercial
+Author: ZodTTD
+Depiction: http://cydia.i4tips.com/depiction/gpsphone.html
+Name: gpSPhone
+
+Package: com.laxus.iosgodsiapcracker
+Version: 1.0-2+debug
+Architecture: iphoneos-arm
+Maintainer: Laxus
+Installed-Size: 296
+Depends: mobilesubstrate
+Filename: ./debs/iOS Gods IAP Cracker_1.0-2-debug_iphoneos-arm.deb
+Size: 18412
+MD5sum: f609fdef7758b9f6c5b544781c58ded7
+SHA1: 6c7108cb350d2442aebc099fe3b2feaf939a55d6
+SHA256: 9f4b9857cd7a8286a14b477e5796cc14d7d71224fb8d8987a5a0324c4871aeb7
+Section: Tweaks
+Description: Free iAP Purchase for some apps and games, it doesn’t always work so don’t expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices
+Author: Laxus
+Name: iOSGods iAP Cracker
+
+Package: com.pathkiller.weeroll
+Version: .6.2-1
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: mobilesubstrate, firmware (>= 5.0), preferenceloader
+Filename: ./debs/com.pathkiller.weeroll_.6.2-1_iphoneos-arm.deb
+Size: 25896
+MD5sum: 41c09f1af524a312ba13db1207a3ecd2
+SHA1: 7f776f6779a1d716c6e4885913ca3158b707a441
+SHA256: ee5ee37dfe126d4d633097a145f6a242c374150d552b5cf37fab055f18a325c7
+Section: Tweaks
+Priority: extra
+Homepage: http://modmyi.com/info/weeroll.php
+Description: Notification Center Transition animations. Inspired by Barrel.
+Tag: cydia::commercial
+Author: PathKiller29 <appleidname@yahoo.com>
+Depiction: http://modmyi.com/info/weeroll.d.php
+Name: WeeRoll
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.yourepo.speedmx.localiapstore
+Version: 1.4-4
+Architecture: iphoneos-arm
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Filename: ./debs/LocalIAPStore_1.4-4_iphoneos-arm.deb
+Size: 70246
+MD5sum: c0fdcf2869d44fa70ddc6ca855b2e78c
+SHA1: ca1c0fa0f46e4c0cf9512921e8950cc7b402d63e
+SHA256: 7d130f194f39fccbc0141e376c7d6eb452072a899362a7c1ebfc5fa1db4c9a66
+Section: Tweaks
+Description: Pwns In-App purchases on iOS 7 and 8. Compatible with ARMv8 (64 Bit). Enable in settings. PRESS 'DISMISS' ON POPUP!
+Author: Pangu
+Depiction: http://www.yourepo.com/repo/speedmx/pack/localiapstore
+Name: LocalIAPStore
+
+Package: com.zodttd.gpsphone
+Version: 6.2.5
+Architecture: iphoneos-arm
+Maintainer: ZodTTD <zodttd@zodttd.com>
+Filename: ./debs/com.zodttd.gpsphone_6.2.5_iphoneos-arm.deb
+Size: 1001482
+MD5sum: cf5fcab8ae0f16f3e5139065dbf59764
+SHA1: 5d8e38461ab2aa4367ee6affe226176b7f9f1bcf
+SHA256: 880f5ae0df2ff08a03e97efe3fbcd7e28adc5624ba8aac44e06ef15b0ed1ff29
+Section: Games
+Homepage: http://www.zodttd.com
+Description: Gameboy Advance emu! Support Zod!
+Tag: cydia::commercial
+Author: ZodTTD
+Depiction: http://www.zodttd.com/repo/cydiathemes/gpSPhone_cydiastore.php
+Name: gpSPhone
+

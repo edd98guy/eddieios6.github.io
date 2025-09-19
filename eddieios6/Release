@@ -1,0 +1,7 @@
+Origin: EddieOS6
+Label: EddieOS6 Repo
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: The cursed retro vault of tweaks
